@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\C#\\Cronometro\\Cronometro.csproj": {}
+    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Cronometro\\Cronometro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\C#\\Cronometro\\Cronometro.csproj": {
+    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Cronometro\\Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\C#\\Cronometro\\Cronometro.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Cronometro\\Cronometro.csproj",
         "projectName": "Cronometro",
-        "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\C#\\Cronometro\\Cronometro.csproj",
+        "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Cronometro\\Cronometro.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\C#\\Cronometro\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Cronometro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"

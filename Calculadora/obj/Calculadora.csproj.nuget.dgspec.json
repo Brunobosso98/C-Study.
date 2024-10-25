@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj": {}
+    "c:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj": {
+    "c:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj",
+        "projectPath": "c:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Study\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"

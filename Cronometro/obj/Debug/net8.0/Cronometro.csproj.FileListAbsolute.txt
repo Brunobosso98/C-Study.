@@ -1,0 +1,15 @@
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfoInputs.cache
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfo.cs
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.csproj.CoreCompileInputs.cache
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.sourcelink.json
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\bin\Debug\net8.0\Cronometro.exe
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\bin\Debug\net8.0\Cronometro.deps.json
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\bin\Debug\net8.0\Cronometro.runtimeconfig.json
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\bin\Debug\net8.0\Cronometro.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\bin\Debug\net8.0\Cronometro.pdb
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.pdb
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
+c:\Users\bruno\OneDrive\Área de Trabalho\Study\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll
