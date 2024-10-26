@@ -21,6 +21,7 @@ namespace Stopwatch
             currentTime++;
             Console.WriteLine(currentTime);
             Thread.Sleep(1000);
+            Thread.Sleep(1000);
           }
         }
         static void Comecar()
